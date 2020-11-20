@@ -1,5 +1,11 @@
 # @backstage/plugin-cost-insights
 
+## 0.4.1
+
+### Patch Changes
+
+- 8e6728e25: fix product icon configuration
+
 ## 0.4.0
 
 ### Minor Changes
