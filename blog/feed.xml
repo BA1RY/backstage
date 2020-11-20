@@ -4,7 +4,7 @@
         <title>Backstage Blog</title>
         <link>https://backstage.io/blog</link>
         <description>The best place to stay up-to-date with the latest Backstage news and events.</description>
-        <lastBuildDate>Wed, 23 Sep 2020 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2020 06:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -12,7 +12,37 @@
             <url>https://backstage.io/undefined</url>
             <link>https://backstage.io/blog</link>
         </image>
-        <copyright>Copyright © 2020 Spotify AB</copyright>
+        <copyright>Copyright © 2020 Backstage Project Authors. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page: https://www.linuxfoundation.org/trademark-usage</copyright>
+        <item>
+            <title><![CDATA[New Cost Insights plugin: The engineer’s solution to taming cloud costs]]></title>
+            <link>https://backstage.io/blog/2020/10/22/cost-insights-plugin.html</link>
+            <guid>https://backstage.io/blog/2020/10/22/cost-insights-plugin.html</guid>
+            <pubDate>Thu, 22 Oct 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>How did Spotify save millions on cloud costs within a matter of months?? We made cost optimization just another part of the daily development process. Our newly open sourced <a href="https://github.com/backstage/backstage/tree/master/plugins/cost-insights">Cost Insights plugin</a> makes a team’s cloud costs visible — and actionable — right inside Backstage. So engineers can see the impact of their cloud usage (down to a product and resource level) and make optimizations wherever and whenever it makes sense. By managing cloud costs from the ground up, you can make smarter decisions that let you continue to build and scale quickly, without wasting resources.</p>
+<iframe width="780" height="440" src="https://www.youtube.com/embed/YLAd5hdXR_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>Are we turning engineers into accountants? Nope, we’re just letting engineers do what they do best, in the place that feels natural to them: inside Backstage.</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Plugin Marketplace is open]]></title>
+            <link>https://backstage.io/blog/2020/09/30/plugin-marketplace.html</link>
+            <guid>https://backstage.io/blog/2020/09/30/plugin-marketplace.html</guid>
+            <pubDate>Wed, 30 Sep 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Backstage has an ambitious goal: to provide engineers with the best possible developer experience.</p>
+<p>A great developer experience leads to happy, creative, and productive engineers. Our belief is that engineers should not have to be experts in various infrastructure tools or disciplines (e.g., machine learning or backend) to be productive. Infrastructure should be abstracted away, so that developers can spend more cycles building and testing, quickly and safely. Backstage unifies all your infrastructure tooling, services, and documentation to create a streamlined development environment from end to end.</p>
+<p>Now you may be thinking, “Yeah, sure, that sounds nice and all, but how does Backstage actually abstract away infrastructure?” The short answer: <a href="https://backstage.io/plugins">plugins</a>.</p>
+<p><img src="https://backstage.io/img/cards-plugins.png" alt="plugins"></p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to design for Backstage (even if you’re not a designer)]]></title>
+            <link>https://backstage.io/blog/2020/09/30/backstage-design-system.html</link>
+            <guid>https://backstage.io/blog/2020/09/30/backstage-design-system.html</guid>
+            <pubDate>Wed, 30 Sep 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p><img src="/blog/assets/backstage-DS-header.png" alt="img"></p>
+<p>We are excited to launch the Backstage Design System, which includes a <a href="https://www.figma.com/community/file/850673348101741100">Figma UI kit</a>, a rich set of <a href="http://backstage.io/storybook">reusable code components</a> on Storybook, and <a href="https://backstage.io/docs/dls/design">Guidelines</a> for designers and developers as they build plugins for Backstage.</p>
+]]></description>
+        </item>
         <item>
             <title><![CDATA[Backstage has been accepted into the CNCF Sandbox]]></title>
             <link>https://backstage.io/blog/2020/09/23/backstage-cncf-sandbox.html</link>
@@ -67,7 +97,7 @@
             <guid>https://backstage.io/blog/2020/05/22/phase-2-service-catalog.html</guid>
             <pubDate>Fri, 22 May 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[<p><strong>TL;DR</strong> Thanks to the help from the Backstage community, we’ve made excellent progress and are now moving into Phase 2 of Backstage — building out a Service Catalog and the surrounding systems that will help unify the tools you use to manage your software.</p>
-<p>We released the open source version of Backstage a little less than two months ago, and have been thrilled to see so many people jumping in and contributing to the project in its early stages. We’re excited to see what the community can build together as we progress through <a href="https://github.com/spotify/backstage#project-roadmap">each phase of Backstage</a>.</p>
+<p>We released the open source version of Backstage a little less than two months ago, and have been thrilled to see so many people jumping in and contributing to the project in its early stages. We’re excited to see what the community can build together as we progress through <a href="https://github.com/backstage/backstage#project-roadmap">each phase of Backstage</a>.</p>
 <p><img src="/blog/assets/20-05-20/Service_Catalog_MVP.png" alt="img"></p>
 ]]></description>
         </item>
